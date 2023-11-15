@@ -12,7 +12,6 @@ Dosen Pengampu : Donny Maulana, S.Kom, M.M.S.I.
 Tugas Ujian Tengah Semester (Oktober 2023)
 
 # SCRIPT
-## Res
 ### Java
 > - MainActivity.java
 ```
@@ -266,7 +265,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Tampilan Android Studio
-![picture](<img width="638" alt="Screenshot 2023-11-16 002805" src="https://github.com/VivieZuliani/BilanganFibonacci_4/assets/130271255/94b7031f-6735-434e-b30e-2b3840513437">)
+![picture](<img src="https://github.com/VivieZuliani/BilanganFibonacci_4/assets/130271255/94b7031f-6735-434e-b30e-2b3840513437">)
 
 ## Hasil Run
 
