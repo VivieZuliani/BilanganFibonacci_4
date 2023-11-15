@@ -11,8 +11,9 @@ Dosen Pengampu : Donny Maulana, S.Kom, M.M.S.I.
 
 Tugas Ujian Tengah Semester (Oktober 2023)
 
-## SCRIPT
-### > - Java
+# SCRIPT
+## Res
+### Java
 > - MainActivity.java
 ```
 package com.example.fibonacci04;
@@ -227,6 +228,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 
+### Values
 > - string.xml
 ```
 <resources>
@@ -262,6 +264,12 @@ public class MainActivity extends AppCompatActivity {
     <color name="purple">#E3A2ED</color>
 </resources>
 ```
+
+## Tampilan Android Studio
+![picture]()
+
+## Hasil Run
+
 
 
 
