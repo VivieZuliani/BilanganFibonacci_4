@@ -12,7 +12,7 @@ Dosen Pengampu : Donny Maulana, S.Kom, M.M.S.I.
 Tugas Ujian Tengah Semester (Oktober 2023)
 
 ## SCRIPT
-### - Java
+### > - Java
 > - MainActivity.java
 ```
 package com.example.fibonacci04;
