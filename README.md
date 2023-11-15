@@ -265,7 +265,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Tampilan Android Studio
-![picture](<img src="https://github.com/VivieZuliani/BilanganFibonacci_4/assets/130271255/94b7031f-6735-434e-b30e-2b3840513437">)
+![Picture](https://github.com/VivieZuliani/BilanganFibonacci_4/assets/130271255/94b7031f-6735-434e-b30e-2b3840513437)
 
 ## Hasil Run
 
